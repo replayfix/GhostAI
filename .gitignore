@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.aac
+.DS_Store
+Thumbs.db
